@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+
+nav {
+    border-width: 4px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+main {
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(245, 26, 215);
+}
+
+.flex-parent {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+footer {
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(226, 43, 43);
+}
